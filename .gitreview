@@ -1,4 +1,4 @@
 [gerrit]
 host=review.gerrithub.io
 port=29418
-project=khoser/mini_games
+project=khoser/mini_games.git
