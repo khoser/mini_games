@@ -10,3 +10,6 @@ class Game:
 
     def step_forward(self):
         pass
+
+    def step(self):
+        pass
