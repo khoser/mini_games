@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "baa041b7_7458c9fa",
+        "filename": "tests.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 1007396
+      },
+      "writtenOn": "2016-07-05T11:40:21Z",
+      "side": 1,
+      "message": "bad comment",
+      "range": {
+        "startLine": 16,
+        "startChar": 11,
+        "endLine": 16,
+        "endChar": 22
+      },
+      "revId": "004623b530b63fde244babb99167dc000b022d7c",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
