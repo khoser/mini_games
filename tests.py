@@ -12,3 +12,6 @@ class TestFunctions(unittest.TestCase):
         """second test"""
         self.assertEqual('2','2')
 
+    def third(self):
+        """?????? ????"""
+        self.assertEqual(3, 3)
